@@ -10,7 +10,7 @@ This is a CRUD (Create, Read, Update, Delete) application for managing employee 
 ## Technologies Used
 - **Frontend**: Angular
 - **Backend**: ASP.NET Core Web API
-- **Database**: (Optional, specify your database like SQL Server or SQLite)
+- **Database**:MSSQL
 - **Styling**: Bootstrap for responsive design
 
 ## Features
@@ -65,8 +65,4 @@ To run this application, ensure you have the following installed on your local m
 - `PUT /api/employees/{id}` - Update an existing employee's details.
 - `DELETE /api/employees/{id}` - Delete an employee.
 
-## Contributions
-Contributions to improve this project are welcome! If you find any bugs or have suggestions for enhancements, feel free to open an issue or submit a pull request.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
